@@ -3,5 +3,5 @@ b = 60
 c = 90
 
 avg = (a+b+c)/3
-
+print ("Hello")
 print("The average is: ", avg)
